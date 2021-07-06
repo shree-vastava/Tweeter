@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1076515696443",
+    "firebase_url": "https://glintz-2a420-default-rtdb.firebaseio.com",
+    "project_id": "glintz-2a420",
+    "storage_bucket": "glintz-2a420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076515696443:android:b0abc8c526583d2df7111e",
+        "android_client_info": {
+          "package_name": "com.app.glints"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076515696443-hgo5i2u0eehut4p6hcg4arp4bijbrlfq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.glints",
+            "certificate_hash": "bcc85ece0a63073b9590f2eb5089c64891cc165e"
+          }
+        },
+        {
+          "client_id": "1076515696443-tqke3kul4jb1djahtulbiouebvcj8i8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFUmiDQApoHeVX8amH5kwdgp3mjh9sJdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076515696443-tqke3kul4jb1djahtulbiouebvcj8i8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

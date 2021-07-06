@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tweeter</string>
+    <string name="error_in_login">Error during authentication</string>
+    <string name="compose_tweet">Compose your tweet</string>
+    <string name="post">POST</string>
+    <string name="login">SIGN IN</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="confirmation_delete">Are you sure you want to delete your tweet. The delete is permanent You will not be able to recover it.</string>
+    <string name="confirmation_logout">Are you sure you want to logout of the app? You can always re-login to access your content</string>
+    <string name="label_tweet_compose">Please enter the tweet message. You can enter the text up to 280 characters</string>
+</resources>
